@@ -6,3 +6,4 @@
 # تصویر اسکریپت
 ![SMS_Bomber_Screenshot](screenshot.png)
 
+.
